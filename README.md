@@ -1,6 +1,9 @@
-<h1>Shards Of Reality Dev - 3D Modeller
+<h1>Shards Of Reality Dev - 3D Modeller<\h1>
+  
 * Linux nerd currently documenting VFIO setup
+
 * Learning Python
+
 * Looking into learning other programming languages
 
 
