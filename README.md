@@ -1,4 +1,4 @@
-# Shards Of Reality Dev - 3D Modeller
+# About me
   
 * Linux nerd currently documenting VFIO setup
 
@@ -6,6 +6,7 @@
 
 * Looking into learning other programming languages
 
+* Shards of Reality - 3D Modelling and Texturing
 
 <!---
 TheNekOz/TheNekOz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
