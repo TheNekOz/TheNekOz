@@ -1,6 +1,6 @@
 # About me
   
-* Linux nerd currently documenting VFIO setup
+* Linux nerd
 
 * Learning Python
 
