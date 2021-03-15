@@ -2,6 +2,8 @@
   
 * Linux nerd
 
+* VFIO Masochist
+
 * Learning Python
 
 * Looking into learning other programming languages
