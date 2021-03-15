@@ -1,4 +1,4 @@
-<h1>Shards Of Reality Dev - 3D Modeller<\h1>
+<h1>Shards Of Reality Dev - 3D Modeller
   
 * Linux nerd currently documenting VFIO setup
 
